@@ -8,3 +8,6 @@ message: hello world
 3:
     name: abaddon
     origin: heartless
+4:
+    name: dragon knight
+    origin: human
