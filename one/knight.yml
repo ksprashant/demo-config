@@ -1,13 +1,1 @@
-message: hello world
-1:
-    name: batrider
-    origin: troll
-2:
-    name: chaos knight
-    origin: demon
-3:
-    name: abaddon
-    origin: heartless
-4:
-    name: dragon knight
-    origin: human
+message: hello one
