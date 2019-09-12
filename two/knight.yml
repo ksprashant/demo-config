@@ -1,13 +1,1 @@
-message: hello world
-1:
-    name: batrider
-    origin: troll
-2:
-    name: luna
-    origin: elusive
-3:
-    name: omniknight
-    origin: human
-4:
-    name: dragon knight
-    origin: human
+message: hello two
